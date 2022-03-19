@@ -9,5 +9,5 @@ providing a view as to the challenges in the space, eventually concluding with a
 This essay is provided under the Apache 2.0 License. 
 <br/>
 <br/>Document Hash: d27825905c4564ca4ba5ca4a243962e11f0c86a27fe05741804c2329980a7acc
-<br/>Document Link: [https://gateway.ethswarm.org/access/d27825905c4564ca4ba5ca4a243962e11f0c86a27fe05741804c2329980a7acc](https://gateway.ethswarm.org/access/d27825905c4564ca4ba5ca4a243962e11f0c86a27fe05741804c2329980a7acc)
+<br/>Document Link: https://gateway.ethswarm.org/access/d27825905c4564ca4ba5ca4a243962e11f0c86a27fe05741804c2329980a7acc
 
