@@ -1,4 +1,4 @@
-# daonaccht
+# Project Daonaccht
 This is the Daonaccht data fairness repository. 
 
 ## Meaningful Privacy in Web 3 
